@@ -12,4 +12,4 @@ Eg: "Car" "Boat"</li>
 <li><strong>Interger</strong>-represents a number without a decimal e.g 20,33</li>
 <li></strong>Double and Float</strong>-This is used to represent a number with decimal point e.g 32.1, 67.3</li>
 </ul>
-<strong>2.Non-primitve Data Types<strong>-These are data types that are derived from primary data types and are used to store a group of values.Include:Arrays,Structure,Union etc.</li>
+<strong>2.Non-primitve Data Types</strong>-These are data types that are derived from primary data types and are used to store a group of values.Include:Arrays,Structure,Union etc.</li>
