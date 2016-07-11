@@ -7,7 +7,11 @@
 	Counter heads = new Counter("heads");
 
 <p>On the first part,its a declaration to associate the variable with the object reference.While in the second part,it calls on the constructor to create an object.</p><br>
-<p><strong>2.Invoking instance methods</strong></p>
+<p><strong>2.Invoking instance methods</strong>- The purpose of an instance method is to operate on data-type values. Instance methods have all of the properties of static methods: arguments are passed by value, method names can be overloaded, they may have a return value and they may cause side effects.They have an additional property that characterizes them: each invocation is associated with an object. E.g:</p><br>
+	
+	heads.tally() = tails.tally()
+<p>The first section invokes an instance method that accesses the object's value.</p>
+
 
 
 
