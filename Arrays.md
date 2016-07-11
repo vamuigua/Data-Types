@@ -16,3 +16,10 @@ An array is a collection of variables of the same type.</p>
 		System.out.println(myNames[2]);
 
 		// Outputs "C"
+
+<h3>Array Length</h3>
+<p>You can access the <strong>length</strong> of an array i.e the number of elements it stores; via its <strong>length property</strong>.Example:</p>
+		int[ ] intArr = new int[6];
+		System.out.println(intArr.length);
+
+		//Outputs 6
