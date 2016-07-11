@@ -1,0 +1,9 @@
+<h3><strong>Arrays</strong></h3>
+<p>
+An array is a collection of variables of the same type.</p>
+<p>To declare an array,you need to define the type of the elements with <strong>Square Brackets('[]')</strong>For example, to declare an array of integers:</p>
+		int[] arr;
+<p>The name of the array is <strong>arr</strong>. The type of elements it will hold is <strong>int</strong>.</p>
+<p>You also need to define the array's capacity or the number of elements it holds by using the keyword <strong>'new':</strong></p>
+		int[ ] arr = new int[5];
+<p></p>
