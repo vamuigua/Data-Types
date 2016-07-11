@@ -10,7 +10,14 @@
 <p><strong>2.Invoking instance methods</strong>- The purpose of an instance method is to operate on data-type values. Instance methods have all of the properties of static methods: arguments are passed by value, method names can be overloaded, they may have a return value and they may cause side effects.They have an additional property that characterizes them: each invocation is associated with an object. E.g:</p><br>
 	
 	heads.tally() = tails.tally()
-<p>The first section invokes an instance method that accesses the object's value.</p>
+<p>The first section invokes an instance method that accesses the object's value.</p><br>
+<p><strong>3.Using objects</strong>-Declarations give us variable names for objects.To use certain data-types we:</p>
+<ul>
+<li>Declare variables of the type, for use in referring to objects</li>
+<li>Use the keyword <em>'new'</em> to invoke a constructor that creates objects of the type</li>
+<li>Use the object name to invoke instance methods, either as statements or within expressions</li>
+</ul>
+
 
 
 
